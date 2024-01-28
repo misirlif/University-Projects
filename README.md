@@ -16,7 +16,7 @@
   <br> - Used Unity and Autodesk Motionbuilder created an interactive cafe with animated characters. 
   </li>
   <li>Pleyelearn - https://www.youtube.com/watch?v=5KD0605lbhc
-  <br> - Used React JS created a learning management system for piano students & tutors. 
+  <br> - Used React JS, Node JS and Firebase created a learning management system for piano students & tutors. 
   </li>
   <li>Treasure express - https://www.youtube.com/watch?v=rp0gRvlfDvU
   <br> - Used HTML, CSS, JS created a mobile web app to encourage tourists to visit more landmarks and act as a promotion for the train railway. 
